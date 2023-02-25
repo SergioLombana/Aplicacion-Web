@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+ }
+ h1{
+     text-align: center;
+     background-color: blue;
+     color: black;
+     padding: 20px;
+ }
+
+ h2{
+    text-align:sta;
+     color: blue;
+     padding: 120px;
+     font-size: 30px;
+
+ }
+
+ p{
+text-align: start;
+color: black;
+font-style: italic;
+padding: 20px;
+ }
+ 
+ nav ul{
+ background-color: bisque;
+ width: 100%;
+ list-style-type: style none;
+ text-align: center;
+ }
+ 
+ nav li{
+ display: inline-flex;
+ }
+
+ nav a{
+ text-decoration: none;
+ color: black;
+ padding: 10px;
+ width: 150px;
+ }
+
+ nav li:hover {
+    background-color: green;
+ }
+
+img{
+width: 800px;
+height: 8000;
+padding: 100px;
+justify-content: center;
+display: flex;
+ }
+.Boton{
+background-color: blue 30px 50px;
+
+}
+.Secciones{
+display: flex;
+align-items:center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
